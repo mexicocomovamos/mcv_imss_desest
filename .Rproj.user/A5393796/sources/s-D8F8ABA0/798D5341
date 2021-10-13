@@ -1,9 +1,9 @@
 {
     "id": "798D5341",
-    "path": null,
-    "project_path": null,
+    "path": "~/MCV/mcv_imss_desest/00_mcv_imss_desest_script.R",
+    "project_path": "00_mcv_imss_desest_script.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "2498002269",
     "contents": "",
     "dirty": false,
     "created": 1634098783419.0,
@@ -13,15 +13,15 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "688,0",
+        "cursorPosition": "670,7",
         "scrollLine": "669"
     },
     "folds": "",
-    "lastKnownWriteTime": 7235423580890333192,
-    "encoding": "",
+    "lastKnownWriteTime": 1634099692,
+    "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1634098989752,
+    "last_content_update": 1634099692175,
     "read_only": false,
     "read_only_alternatives": []
 }
